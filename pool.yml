@@ -1,3 +1,4 @@
 title: Template Python Challenge
 programming_language: python
 from: "python-base-prod:20"
+used_by_certification: true
